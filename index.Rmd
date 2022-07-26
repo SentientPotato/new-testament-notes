@@ -1,0 +1,10 @@
+--- 
+title: "New Testament Study Notes"
+author: "Sentient Potato"
+date: "`r format(Sys.Date(), '%B %-d, %Y')`"
+site: bookdown::bookdown_site
+documentclass: book
+# url: your book url like https://bookdown.org/yihui/bookdown
+# cover-image: path to the social sharing image like images/cover.jpg
+link-citations: yes
+---
