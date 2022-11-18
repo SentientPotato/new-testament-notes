@@ -1,4 +1,4 @@
---- 
+---
 title: "New Testament Study Notes"
 author: "Sentient Potato"
 date: "`r format(Sys.Date(), '%B %-d, %Y')`"
@@ -7,4 +7,33 @@ documentclass: book
 # url: your book url like https://bookdown.org/yihui/bookdown
 # cover-image: path to the social sharing image like images/cover.jpg
 link-citations: yes
+editor_options: 
+  markdown: 
+    wrap: sentence
 ---
+
+# Introduction
+
+In my opinion, to get the best understanding of what we should get out of the New Testament, there are a few things we need to get at least a halfway decent grasp on:
+
+-   The first century political situation in the Roman Empire, especially the provinces of Judea, Galilee, and Samaria
+-   Relevant aspects of first century Roman, Greek, and Jewish culture
+-   Judaism as it was understood and practiced in the first century
+-   The types of writing we see in the New Testament (e.g. gospel vs. epistle)
+-   The original expected audience of each of the books of the New Testament (for example, the Epistle to the Colossians was originally written to a specific church in Colossae) and the purpose of the specific writing. Determining this may require us to examine authorship and dating
+
+## First Century Politics
+
+In the first century *BC*, the Roman state transformed from the Roman Republic to the Roman Empire.
+Although the Roman Republic stood for centuries, leading into the first century BC, vicious infighting among powerful factions had taken hold.
+Around 45 BC, Julius Caesar took power and instituted autocratic rule, though he was murdered within two years by political enemies.
+His nephew Augustus killed those enemies, aided by Marc Antony.
+In the aftermath, Augustus took control of Rome and Antony took Egypt.
+However, Augustus suspected Antony and Egypt's queen Cleopatra wanted to take control of Rome, so he launched a very successful preemptive attack.
+This victory cemented his power and he became Rome's first Emperor in 31 BC.
+
+## First Century Culture
+
+## First Century Judaism
+
+## Structure of the New Testament
